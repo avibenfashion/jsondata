@@ -24,7 +24,7 @@
 			"cart_url": null,
 			"product_uid": "MF04"
 		},
-		"compiledImg": "avi.png"
+		"compiledImg": "http://127.0.0.1:5501/avi/avi.png"
 	},
 
 
